@@ -6,12 +6,12 @@ You will need a SQLite-JDBC jar file which can be found from below link. To add 
 
 https://bitbucket.org/xerial/sqlite-jdbc/downloads/
 
-Right Click on your project
-Go to 'Build Path'
-Go to 'Configure Build Path'
-Go to 'Libraries' tab
-Click on 'Add External JARs'
-Select JAR file you downloaded and click apply.
+- Right Click on your project
+- Go to 'Build Path'
+- Go to 'Configure Build Path'
+- Go to 'Libraries' tab
+- Click on 'Add External JARs'
+- Select JAR file you downloaded and click apply.
 
 PROJECT DESCRIPTION: 
 A customer needs a JAVA Application to churn out a small application. For that we need the following things:

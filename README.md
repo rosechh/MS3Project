@@ -19,20 +19,13 @@ A customer needs a JAVA Application to churn out a small application. For that w
 - Each record needs to be verified to contain the right number of data elements to match the columns
 - Records that do not match the column count must be written to the bad-data-.CSV file
 - Elements with commas will be double quoted
-
-At the end of the process write statistics to a log file:
-a. # of records received
-
-b. # of records successful
-
-c. # of records failed
+- At the end of the process write statistics to a log file:
+  a. # of records received
+  b. # of records successful
+  c. # of records failed
 
 Rules and guidelines:
-
-Feel free to use any online resources
-
-Utilizing existing tools like Maven and open source libraries is encouraged.
-
-A finished solution is great but if you do not get it all completed, that is ok - we will evaluate based on the approach
-
-It is required that you provide a README detailing the challenge
+- Feel free to use any online resources
+- Utilizing existing tools like Maven and open source libraries is encouraged.
+- A finished solution is great but if you do not get it all completed, that is ok - we will evaluate based on the approach
+- It is required that you provide a README detailing the challenge
